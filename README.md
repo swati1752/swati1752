@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Swati Agarwal
-- 👀 I’m interested in Exploring myself
+- 👀 I’m interested in Learning Everyday.
 - 🌱 I’m currently learning Web Development ,python ,competitive programing.
 
 
